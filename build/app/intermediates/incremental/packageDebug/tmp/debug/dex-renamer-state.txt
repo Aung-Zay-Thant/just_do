@@ -1,0 +1,4 @@
+#Mon Jul 27 15:08:15 MMT 2020
+base.0=/Users/azt/Desktop/Flutter/sqlite_testing/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
